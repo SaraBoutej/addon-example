@@ -1,0 +1,6 @@
+org/exoplatform/samples/entity/Produit.class
+exo-jpa-entities/entities.idx
+org/exoplatform/samples/MyService.class
+org/exoplatform/samples/dao/ProduitDao.class
+org/exoplatform/samples/dao/impl/ProduitDaoImpl.class
+org/exoplatform/samples/entity/FavouriteActivityEntity.class

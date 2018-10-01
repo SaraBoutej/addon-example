@@ -13,6 +13,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/addon-template-portlet/pom.xml" />
+        <option value="$PROJECT_DIR$/portlet/pom.xml" />
         <option value="$PROJECT_DIR$/war/addon-template-portlet/pom.xml" />
       </set>
     </option>

@@ -28,7 +28,6 @@
 		<module>services</module>
 		<module>war</module>
 		<module>packaging</module>
-        <module>portlet</module>
     </modules>
 	<properties>
 		<maven.compiler.target>1.6</maven.compiler.target>

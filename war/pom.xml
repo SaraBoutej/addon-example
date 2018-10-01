@@ -31,6 +31,30 @@
   <packaging>pom</packaging>
   <name>Addon Template Webapp</name>
   <dependencies>
+    <dependency>
+      <groupId>org.juzu</groupId>
+      <artifactId>juzu-core</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.juzu</groupId>
+      <artifactId>juzu-plugins-servlet</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.exoplatform.samples</groupId>
+      <artifactId>addon-template-lib</artifactId>
+    </dependency>
+      <dependency>
+          <groupId>org.juzu</groupId>
+          <artifactId>juzu-plugins-portlet</artifactId>
+          <version>1.2.x-SNAPSHOT</version>
+      </dependency>
   </dependencies>
   <build>
     <finalName>addon-template-webapp</finalName>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.juzu:juzu-plugins-portlet:1.2.x-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-plugins-portlet/1.2.x-SNAPSHOT/juzu-plugins-portlet-1.2.x-20180930.072730-17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-plugins-portlet/1.2.x-SNAPSHOT/juzu-plugins-portlet-1.2.x-20180930.072730-17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/juzu/juzu-plugins-portlet/1.2.x-SNAPSHOT/juzu-plugins-portlet-1.2.x-20180930.072730-17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
