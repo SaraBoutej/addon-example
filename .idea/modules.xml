@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/addon-template.iml" filepath="$PROJECT_DIR$/addon-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/services/addon-template-lib.iml" filepath="$PROJECT_DIR$/services/addon-template-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/packaging/addon-template-packaging.iml" filepath="$PROJECT_DIR$/packaging/addon-template-packaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portlet/addon-template-portlet.iml" filepath="$PROJECT_DIR$/portlet/addon-template-portlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/war/addon-template-webapp.iml" filepath="$PROJECT_DIR$/war/addon-template-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portlet/hellojz.iml" filepath="$PROJECT_DIR$/portlet/hellojz.iml" />
     </modules>
   </component>
 </project>

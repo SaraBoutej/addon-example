@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hellojz:war">
+    <output-path>$PROJECT_DIR$/portlet/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hellojz</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hellojz.war">
+      <element id="artifact" artifact-name="hellojz:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -2,5 +2,15 @@
 	xsi:schemaLocation="http://www.exoplatform.org/xml/ns/kernel_1_2.xsd http://www.exoplatform.org/xml/ns/kernel_1_2.xsd"
 	xmlns="http://www.exoplatform.org/xml/ns/kernel_1_2.xsd">
 
+	<component>
+		<type>org.exoplatform.samples.dao.ProduitDao</type>
+	</component>
+
+	<component>
+		<key>org.exoplatform.samples.dao.ProduitDao</key>
+		<type>org.exoplatform.samples.dao.impl.ProduitDaoImpl</type>
+	</component>
+
+
 </configuration>
 

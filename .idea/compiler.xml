@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="addon-template-lib" />
-        <module name="addon-template-webapp" />
+        <module name="hellojz" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="addon-template" target="1.6" />
       <module name="addon-template-lib" target="1.6" />
       <module name="addon-template-packaging" target="1.6" />
+      <module name="addon-template-portlet" target="1.6" />
       <module name="addon-template-webapp" target="1.6" />
+      <module name="hellojz" target="1.6" />
+      <module name="portlet" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
