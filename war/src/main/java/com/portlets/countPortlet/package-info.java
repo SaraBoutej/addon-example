@@ -1,5 +1,3 @@
-@juzu.plugin.servlet.Servlet(value = "/")
-
 @Assets("*")
 @Application
 @Portlet(name="ProduitPortlet")

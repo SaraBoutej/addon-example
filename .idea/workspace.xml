@@ -3,32 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a3c7c62a-aaa4-41be-9b8a-ff6a2b2f4dac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/entity/FavouriteActivityEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/entity/FavouriteActivityEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/addon-template-lib-1.0-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/addon-template-lib-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/conf/configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/conf/portal/configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/db/changelog/training-rdbms.db.changelog-1.0.0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/exo-jpa-entities/entities.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/MyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/dao/ProduitDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/dao/impl/ProduitDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/entity/FavouriteActivityEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/entity/Produit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/war/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/templates/index.gtmpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/conf/configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-webapp.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/web-guice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/webapp/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -71,8 +51,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="353">
+              <caret line="27" column="61" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,20 +63,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
+        <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/templates/index.gtmpl">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/war/src/main/web-guice.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -142,9 +131,10 @@
         <option value="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java" />
-        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java" />
-        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java" />
         <option value="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" />
+        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java" />
+        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java" />
+        <option value="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -222,6 +212,16 @@
               <item name="war" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="portlets" type="462c0819:PsiDirectoryNode" />
+              <item name="countPortlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
+              <item name="war" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,7 +244,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538404674095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538406935556" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/dao/impl" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ATIS/CP-ATIS/add-on/cp-atisnetwork/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -256,6 +256,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/war/src/main/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/portlet/src/main/webapp/WEB-INF/conf/portal" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -290,12 +291,12 @@
       <updated>1538141722440</updated>
       <workItem from="1538141723832" duration="1059000" />
       <workItem from="1538142800296" duration="5931000" />
-      <workItem from="1538381624043" duration="18364000" />
+      <workItem from="1538381624043" duration="20727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25354000" />
+    <option name="totallyTimeSpent" value="27717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="832" extended-state="6" />
@@ -318,7 +319,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.06258891" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18492177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Bean Validation" />
@@ -508,9 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -520,12 +518,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/web-guice.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/web-spring.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -544,20 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
@@ -565,10 +543,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/web-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/templates/index.gtmpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="135">
+          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

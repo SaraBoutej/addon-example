@@ -25,7 +25,7 @@ public class ProduitController {
     @View
     public Response.Content index() throws IOException {
         cnt=prodDao.count();
-        Map<String,Object> params =new HashMap();
+        Map<String,Object> params =new HashMap<String, Object>() ;
         params.put(PRODUCT_NUMBER , cnt);
         return index.with(params).ok();
     }
