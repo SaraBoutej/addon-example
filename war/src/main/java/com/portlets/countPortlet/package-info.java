@@ -1,9 +1,11 @@
+@juzu.plugin.servlet.Servlet(value = "/")
+
 @Assets("*")
 @Application
 @Portlet(name="ProduitPortlet")
 @Bindings({@Binding(ProduitDao.class)})
 
-package org.exoplatform.samples;
+package com.portlets.countPortlet;
 
 import juzu.Application;
 import juzu.plugin.asset.Assets;

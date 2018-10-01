@@ -2,29 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3c7c62a-aaa4-41be-9b8a-ff6a2b2f4dac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_exoplatform_samples_addon_template_lib_4_2_x.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-webapp.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" beforeDir="false" afterPath="$PROJECT_DIR$/packaging/target/addon-template-packaging-1.0/addon-template-lib.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/hellojz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/java/org/exoplatform/samples/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/java/org/exoplatform/samples/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/java/org/exoplatform/samples/templates/index.gtmpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/web-guice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/web-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/webapp/WEB-INF/conf/configuration.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/webapp/WEB-INF/jboss-deployment-structure.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portlet/src/main/webapp/WEB-INF/portlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/war/addon-template-webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/war/addon-template-webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/entity/FavouriteActivityEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/entity/FavouriteActivityEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/addon-template-lib-1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/addon-template-lib-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/conf/configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/conf/portal/configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/db/changelog/training-rdbms.db.changelog-1.0.0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/exo-jpa-entities/entities.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/MyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/dao/ProduitDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/dao/impl/ProduitDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/entity/FavouriteActivityEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/classes/org/exoplatform/samples/entity/Produit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/war/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/war/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/templates/index.gtmpl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/conf/configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/webapp/target/" />
@@ -48,39 +51,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="277">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java">
+        <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
+        <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="36" />
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,27 +89,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/templates/index.gtmpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="17" selection-end-column="28" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -161,8 +141,10 @@
         <option value="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/templates/index.gtmpl" />
         <option value="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" />
         <option value="$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java" />
+        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java" />
+        <option value="$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java" />
+        <option value="$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml" />
       </list>
     </option>
   </component>
@@ -202,59 +184,6 @@
             <path>
               <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
               <item name="war" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -285,17 +214,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org.exoplatform.samples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="addon-packaging-template" type="462c0819:PsiDirectoryNode" />
-              <item name="war" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org.exoplatform.samples" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="portlets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="addon-template" type="b2602c69:ProjectViewProjectNode" />
@@ -325,14 +244,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538402448240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538404674095" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/services/src/main/java/org/exoplatform/samples/dao/impl" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ATIS/CP-ATIS/add-on/cp-atisnetwork/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -371,18 +290,18 @@
       <updated>1538141722440</updated>
       <workItem from="1538141723832" duration="1059000" />
       <workItem from="1538142800296" duration="5931000" />
-      <workItem from="1538381624043" duration="16065000" />
+      <workItem from="1538381624043" duration="18364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23055000" />
+    <option name="totallyTimeSpent" value="25354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="832" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35714287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23552124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -399,7 +318,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.055476528" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.06258891" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Bean Validation" />
@@ -589,26 +508,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/web-spring.xml">
+    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/war/src/main/web-guice.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/jboss-deployment-structure.xml">
+    <entry file="file://$PROJECT_DIR$/war/src/main/web-spring.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml">
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/ProduitController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="60" />
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -622,19 +544,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/ProduitController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="36" />
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/src/main/java/org.exoplatform.samples/package-info.java">
+    <entry file="file://$PROJECT_DIR$/war/src/main/java/com/portlets/countPortlet/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/src/main/resources/conf/portal/configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/src/main/webapp/WEB-INF/portlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

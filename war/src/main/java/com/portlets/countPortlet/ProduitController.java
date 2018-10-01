@@ -1,4 +1,4 @@
-package org.exoplatform.samples;
+package com.portlets.countPortlet;
 
 import juzu.Path;
 import juzu.Response;
